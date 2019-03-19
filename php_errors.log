@@ -1,0 +1,2 @@
+[22-Mar-2018 16:42:21 Europe/Moscow] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/pidugusu/public_html/sharingportal/index.php on line 241
+[22-Mar-2018 16:42:21 Europe/Moscow] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pidugusu/public_html/sharingportal/index.php on line 260
